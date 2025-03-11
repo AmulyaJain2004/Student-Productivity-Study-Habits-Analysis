@@ -5,7 +5,7 @@ from django.http import JsonResponse
 from rest_framework.decorators import api_view
 
 # Define model path
-MODEL_PATH = os.path.join(os.path.dirname(__file__), "../ml_models/model.pkl")
+MODEL_PATH = os.path.join(os.path.dirname(__file__), "../ml_service/models/model.pkl")
 
 # Load the model only if it exists
 model = None
