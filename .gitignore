@@ -1,6 +1,0 @@
-venv/
-.env
-*.pyc
-*.pyo
-base.py
-synthetic_student_data.csv
