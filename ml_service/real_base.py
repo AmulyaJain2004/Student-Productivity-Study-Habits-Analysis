@@ -59,7 +59,7 @@ df = pd.DataFrame(data)
 # Adjust GPA based on study hours (realism)
 study_hours_map = {"1-2": -1.0, "3-4": 0.0, "5-6": 1.0, "More than 6 hours": 1.5}
 df["gpa"] += df["study_hours_per_day"].map(study_hours_map)
-df["gpa"] = np.clip(df["gpa"], 5, 10)  # Ensure GPA remains in range
+df["gpa"] = np.clip(df["gpa"], 0, 10)  # Ensure GPA remains in range
 
 # Adjust sleep quality based on stress level
 df["sleep_quality"] = df.apply(lambda row: "Poor" if row["stress_level"] > 8 else row["sleep_quality"], axis=1)

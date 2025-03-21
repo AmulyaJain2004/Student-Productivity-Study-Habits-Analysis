@@ -8,7 +8,7 @@ student_id,year_of_study,major,study_hours_per_day,study_schedule,study_environm
 7,1,SOL,1-2,Daily study routine,Quiet,9.0,6-7,Fair,7,5,8,Personal,Often,1-2,Negative,Yes,1-3,Fully,No,8,No,NA,No
 8,4,SOD,1-2,Sporadic,Noisy,5.74,4-5,Poor,9,8,3,Academics,Sometimes,<1,Negative,Yes,<1,Somewhat,No,8,Yes,NA,No
 9,3,SOL,3-4,Weekdays only,No dedicated space,5.0,4-5,Good,4,8,5,Academics,Often,1-2,No effect,No,<1,Somewhat,No,9,No,NA,No
-10,4,SOD,1-2,Daily study routine,Quiet,5.0,6-7,Poor,5,6,9,Personal,Always,1-2,Positive,Yes,1-3,Somewhat,Yes,4,No,NA,Yes
+10,4,SOD,1-2,Daily study routine,Quiet,4.33,6-7,Poor,5,6,9,Personal,Always,1-2,Positive,Yes,1-3,Somewhat,Yes,4,No,NA,Yes
 11,1,SOD,3-4,Weekends only,No dedicated space,10.0,6-7,Poor,4,7,9,Finance,Always,<1,Maybe,No,1-3,Fully,Yes,8,Yes,NA,Yes
 12,5,SOLS,5-6,Weekdays only,Noisy,7.45,<4,Poor,6,7,4,Academics,Always,3-4,Negative,Yes,<1,Not at all,No,6,No,NA,No
 13,4,SOB,1-2,Sporadic,No dedicated space,8.24,4-5,Fair,4,9,4,Finance,Sometimes,3-4,Positive,Yes,<1,Fully,Yes,7,No,NA,No
@@ -16,7 +16,7 @@ student_id,year_of_study,major,study_hours_per_day,study_schedule,study_environm
 15,1,SOLS,1-2,Daily study routine,Noisy,5.77,4-5,Good,5,3,3,Academics,Sometimes,1-2,Positive,Yes,6+,Somewhat,No,9,No,NA,No
 16,1,SOAE,3-4,Daily study routine,Noisy,8.66,6-7,Fair,6,5,6,Personal,Often,3-4,Positive,Yes,1-3,Fully,Yes,9,No,NA,No
 17,2,SOB,3-4,Weekdays only,Quiet,5.0,6-7,Fair,8,8,4,Academics,Often,3-4,Negative,Yes,4-6,Not at all,Yes,5,No,NA,No
-18,3,SOD,1-2,Daily study routine,Quiet,5.0,4-5,Good,8,4,6,Academics,Often,3-4,No effect,No,<1,Not at all,No,8,Yes,NA,No
+18,3,SOD,1-2,Daily study routine,Quiet,4.34,4-5,Good,8,4,6,Academics,Often,3-4,No effect,No,<1,Not at all,No,8,Yes,NA,No
 19,2,SOHST,5-6,Sporadic,No dedicated space,7.76,8+,Good,7,5,6,Time Management,Sometimes,1-2,Maybe,Yes,6+,Somewhat,No,8,Yes,NA,No
 20,2,SOCS,5-6,Weekdays only,Noisy,6.49,6-7,Fair,9,9,7,Academics,Sometimes,4+,Negative,Yes,<1,Somewhat,No,8,Yes,NA,No
 21,3,SOAE,1-2,Sporadic,Noisy,5.63,4-5,Fair,4,7,3,Academics,Rarely,<1,Positive,Yes,1-3,Fully,Yes,9,Yes,5-10,No
@@ -56,7 +56,7 @@ student_id,year_of_study,major,study_hours_per_day,study_schedule,study_environm
 55,3,SOCS,3-4,Daily study routine,Quiet,5.79,6-7,Good,6,4,8,Finance,Often,1-2,Negative,Yes,<1,Not at all,No,9,No,NA,No
 56,5,SOD,1-2,Daily study routine,Quiet,6.51,6-7,Excellent,6,6,3,Time Management,Sometimes,3-4,No effect,Yes,<1,Fully,Yes,4,No,NA,No
 57,1,SOHST,1-2,Weekdays only,Noisy,7.18,6-7,Good,4,3,8,Finance,Sometimes,<1,Negative,Yes,<1,Somewhat,Yes,9,No,NA,Yes
-58,1,SOD,1-2,Weekends only,Noisy,5.0,<4,Fair,6,9,7,Finance,Often,1-2,Maybe,Yes,<1,Fully,No,6,No,NA,No
+58,1,SOD,1-2,Weekends only,Noisy,4.89,<4,Fair,6,9,7,Finance,Often,1-2,Maybe,Yes,<1,Fully,No,6,No,NA,No
 59,1,SOLS,5-6,Weekdays only,Noisy,8.809999999999999,6-7,Good,5,8,5,Personal,Sometimes,<1,Positive,No,1-3,Somewhat,Yes,5,No,NA,Yes
 60,2,SOB,1-2,Weekends only,Quiet,9.0,6-7,Good,6,4,5,Personal,Always,3-4,Positive,Yes,1-3,Somewhat,No,5,No,NA,Yes
 61,2,SOD,1-2,Weekdays only,Noisy,7.34,6-7,Poor,8,3,7,Academics,Sometimes,<1,Positive,Yes,1-3,Somewhat,No,9,No,NA,Yes
@@ -73,10 +73,10 @@ student_id,year_of_study,major,study_hours_per_day,study_schedule,study_environm
 72,1,SOCS,1-2,Daily study routine,Quiet,6.25,8+,Fair,7,8,6,Personal,Often,3-4,No effect,Yes,<1,Fully,No,5,No,NA,No
 73,1,SOLS,3-4,Daily study routine,Quiet,9.18,6-7,Poor,9,3,9,Academics,Often,3-4,Negative,No,1-3,Fully,No,6,Yes,NA,No
 74,4,SOCS,5-6,Weekdays only,No dedicated space,8.7,6-7,Excellent,5,4,4,Academics,Rarely,<1,Positive,No,1-3,Somewhat,Yes,8,No,NA,No
-75,4,SOB,1-2,Weekends only,Noisy,5.0,6-7,Good,5,6,8,Academics,Sometimes,1-2,Negative,Yes,1-3,Somewhat,Yes,7,Yes,NA,Yes
+75,4,SOB,1-2,Weekends only,Noisy,4.39,6-7,Good,5,6,8,Academics,Sometimes,1-2,Negative,Yes,1-3,Somewhat,Yes,7,Yes,NA,Yes
 76,4,SOD,3-4,Daily study routine,Quiet,8.2,4-5,Fair,6,6,6,Finance,Often,1-2,Negative,Yes,4-6,Not at all,No,5,No,NA,No
 77,4,SOD,3-4,Daily study routine,Quiet,6.11,6-7,Poor,6,7,9,Academics,Always,3-4,No effect,Yes,<1,Not at all,No,8,No,NA,No
-78,1,SOL,1-2,Daily study routine,Noisy,5.0,6-7,Poor,6,5,9,Finance,Often,1-2,Negative,No,<1,Somewhat,Yes,6,Yes,NA,Yes
+78,1,SOL,1-2,Daily study routine,Noisy,4.0,6-7,Poor,6,5,9,Finance,Often,1-2,Negative,No,<1,Somewhat,Yes,6,Yes,NA,Yes
 79,2,SOLS,5-6,Daily study routine,No dedicated space,10.0,<4,Poor,9,9,9,Academics,Sometimes,1-2,Maybe,Yes,1-3,Somewhat,No,5,No,NA,No
 80,1,SOCS,3-4,Sporadic,Quiet,8.19,4-5,Fair,7,5,7,Personal,Sometimes,4+,Negative,Yes,<1,Somewhat,No,6,Yes,NA,Yes
 81,4,SOCS,1-2,Weekdays only,Quiet,6.38,8+,Poor,7,5,9,Academics,Always,3-4,Negative,No,1-3,Somewhat,No,6,No,NA,No
@@ -87,7 +87,7 @@ student_id,year_of_study,major,study_hours_per_day,study_schedule,study_environm
 86,2,SOAE,3-4,Weekdays only,Noisy,5.96,4-5,Good,8,9,7,Finance,Sometimes,1-2,Negative,Yes,1-3,Somewhat,No,4,Yes,NA,No
 87,4,SOAE,5-6,Daily study routine,Quiet,8.27,4-5,Poor,4,8,9,Finance,Often,<1,Positive,Yes,1-3,Fully,No,8,No,NA,Yes
 88,3,SOAE,1-2,Weekends only,Quiet,7.15,<4,Poor,7,4,9,Personal,Sometimes,1-2,Negative,No,<1,Not at all,Yes,5,No,NA,No
-89,4,SOLS,1-2,Daily study routine,Noisy,5.0,4-5,Fair,8,9,3,Academics,Always,<1,Positive,Yes,<1,Fully,Yes,4,No,NA,No
+89,4,SOLS,1-2,Daily study routine,Noisy,4.0,4-5,Fair,8,9,3,Academics,Always,<1,Positive,Yes,<1,Fully,Yes,4,No,NA,No
 90,2,SOLS,1-2,Daily study routine,Quiet,7.0,4-5,Poor,8,3,9,Academics,Always,1-2,No effect,No,<1,Not at all,No,4,No,NA,No
 91,1,SOB,5-6,Weekends only,Noisy,9.15,6-7,Good,5,6,4,Academics,Often,3-4,Positive,Yes,1-3,Somewhat,No,4,No,NA,No
 92,4,SOB,1-2,Daily study routine,No dedicated space,8.49,8+,Good,7,8,6,Academics,Always,4+,Positive,Yes,<1,Somewhat,No,9,No,NA,No
@@ -114,7 +114,7 @@ student_id,year_of_study,major,study_hours_per_day,study_schedule,study_environm
 113,5,SOB,5-6,Weekends only,No dedicated space,6.89,8+,Good,5,7,7,Finance,Always,1-2,Negative,Yes,1-3,Not at all,Yes,5,Yes,NA,No
 114,4,SOHST,More than 6 hours,Weekdays only,Quiet,9.49,8+,Fair,8,8,5,Personal,Often,1-2,Positive,Yes,4-6,Fully,No,8,No,NA,Yes
 115,3,SOLS,5-6,Weekends only,Quiet,10.0,<4,Fair,8,8,8,Academics,Rarely,1-2,Negative,Yes,4-6,Somewhat,No,9,No,NA,No
-116,4,SOL,1-2,Daily study routine,Quiet,5.0,6-7,Fair,6,6,5,Time Management,Often,4+,Negative,Yes,1-3,Fully,Yes,6,No,NA,Yes
+116,4,SOL,1-2,Daily study routine,Quiet,4.0,6-7,Fair,6,6,5,Time Management,Often,4+,Negative,Yes,1-3,Fully,Yes,6,No,NA,Yes
 117,4,SOAE,3-4,Weekdays only,No dedicated space,6.73,8+,Excellent,7,8,6,Finance,Often,3-4,Negative,Yes,4-6,Somewhat,No,7,No,NA,No
 118,1,SOLS,1-2,Weekends only,Quiet,5.49,4-5,Poor,8,5,5,Academics,Sometimes,3-4,Maybe,Yes,<1,Not at all,No,7,No,NA,No
 119,4,SOAE,1-2,Daily study routine,Quiet,5.85,6-7,Good,7,7,8,Academics,Sometimes,3-4,No effect,No,<1,Not at all,No,5,No,NA,No
@@ -134,7 +134,7 @@ student_id,year_of_study,major,study_hours_per_day,study_schedule,study_environm
 133,1,SOL,5-6,Weekdays only,Quiet,9.57,4-5,Poor,8,5,8,Academics,Sometimes,3-4,Positive,Yes,1-3,Somewhat,No,5,No,NA,No
 134,2,SOLS,1-2,Sporadic,Noisy,7.779999999999999,6-7,Poor,6,9,6,Academics,Sometimes,<1,Negative,Yes,1-3,Somewhat,No,9,No,NA,No
 135,5,SOHST,5-6,Weekdays only,Quiet,6.93,4-5,Poor,9,3,9,Finance,Always,<1,Negative,No,<1,Not at all,No,4,No,NA,No
-136,2,SOAE,1-2,Weekdays only,Quiet,5.0,8+,Fair,9,8,8,Academics,Sometimes,3-4,Positive,No,<1,Not at all,No,4,Yes,NA,No
+136,2,SOAE,1-2,Weekdays only,Quiet,4.7,8+,Fair,9,8,8,Academics,Sometimes,3-4,Positive,No,<1,Not at all,No,4,Yes,NA,No
 137,3,SOB,5-6,Weekdays only,Quiet,8.219999999999999,<4,Excellent,8,7,5,Finance,Always,3-4,No effect,Yes,6+,Not at all,Yes,8,No,NA,Yes
 138,4,SOCS,1-2,Daily study routine,Noisy,8.66,6-7,Fair,7,6,3,Academics,Sometimes,3-4,Positive,Yes,6+,Not at all,No,7,Yes,5-10,Yes
 139,2,SOD,More than 6 hours,Weekdays only,Noisy,7.96,6-7,Good,9,9,3,Finance,Sometimes,<1,Negative,Yes,<1,Fully,Yes,4,Yes,15+,No
@@ -166,7 +166,7 @@ student_id,year_of_study,major,study_hours_per_day,study_schedule,study_environm
 165,1,SOLS,3-4,Weekdays only,Noisy,7.34,4-5,Poor,5,4,9,Personal,Sometimes,1-2,Positive,Yes,<1,Somewhat,Yes,9,No,NA,Yes
 166,4,SOL,1-2,Sporadic,No dedicated space,7.93,8+,Excellent,8,5,3,Time Management,Always,3-4,Positive,No,4-6,Somewhat,Yes,7,No,NA,No
 167,2,SOL,1-2,Weekdays only,Quiet,9.0,6-7,Good,5,6,8,Time Management,Always,<1,Negative,Yes,4-6,Not at all,No,8,Yes,NA,No
-168,1,SOCS,1-2,Daily study routine,Quiet,5.0,8+,Good,4,5,5,Academics,Sometimes,<1,No effect,No,6+,Fully,Yes,4,No,NA,No
+168,1,SOCS,1-2,Daily study routine,Quiet,4.75,8+,Good,4,5,5,Academics,Sometimes,<1,No effect,No,6+,Fully,Yes,4,No,NA,No
 169,1,SOB,1-2,Sporadic,Noisy,8.42,4-5,Fair,5,4,4,Personal,Sometimes,1-2,Positive,Yes,4-6,Somewhat,No,5,No,NA,Yes
 170,3,SOB,3-4,Weekends only,Quiet,8.07,6-7,Poor,7,6,9,Time Management,Often,1-2,Positive,No,4-6,Fully,Yes,7,No,NA,No
 171,3,SOB,1-2,Weekdays only,Noisy,6.74,6-7,Fair,6,3,5,Academics,Often,4+,Positive,No,4-6,Somewhat,No,7,No,NA,No
@@ -220,7 +220,7 @@ student_id,year_of_study,major,study_hours_per_day,study_schedule,study_environm
 219,3,SOHST,5-6,Daily study routine,Noisy,8.76,4-5,Poor,6,5,9,Academics,Sometimes,1-2,No effect,No,4-6,Somewhat,No,9,Yes,NA,Yes
 220,4,SOHST,3-4,Daily study routine,Noisy,9.3,6-7,Poor,5,8,6,Academics,Often,1-2,Negative,Yes,<1,Fully,No,9,Yes,NA,No
 221,3,SOLS,3-4,Sporadic,Noisy,6.89,4-5,Good,6,6,7,Personal,Rarely,<1,Maybe,Yes,4-6,Somewhat,No,8,No,NA,No
-222,3,SOLS,1-2,Daily study routine,Noisy,5.0,8+,Good,4,9,3,Academics,Often,1-2,Negative,Yes,1-3,Not at all,Yes,7,No,NA,No
+222,3,SOLS,1-2,Daily study routine,Noisy,4.43,8+,Good,4,9,3,Academics,Often,1-2,Negative,Yes,1-3,Not at all,Yes,7,No,NA,No
 223,1,SOAE,More than 6 hours,Sporadic,Noisy,7.95,8+,Good,9,8,5,Academics,Always,1-2,Negative,Yes,1-3,Not at all,No,4,No,NA,No
 224,2,SOL,5-6,Daily study routine,Quiet,9.38,8+,Poor,5,7,9,Academics,Sometimes,<1,Negative,No,1-3,Fully,No,4,Yes,NA,Yes
 225,2,SOHST,3-4,Weekdays only,No dedicated space,8.52,<4,Fair,4,7,3,Academics,Sometimes,1-2,Maybe,Yes,6+,Somewhat,No,7,No,NA,No
@@ -273,7 +273,7 @@ student_id,year_of_study,major,study_hours_per_day,study_schedule,study_environm
 272,4,SOHST,1-2,Weekdays only,No dedicated space,5.29,4-5,Poor,9,3,9,Academics,Rarely,1-2,Negative,No,<1,Fully,No,4,No,NA,No
 273,4,SOL,1-2,Daily study routine,Quiet,9.0,4-5,Fair,6,9,6,Academics,Often,3-4,Negative,Yes,4-6,Somewhat,No,6,No,NA,No
 274,5,SOHST,5-6,Daily study routine,Noisy,7.88,4-5,Fair,5,5,8,Personal,Rarely,4+,Negative,Yes,6+,Fully,No,8,No,NA,No
-275,3,SOLS,1-2,Daily study routine,Quiet,5.0,4-5,Poor,4,8,3,Finance,Rarely,4+,Negative,Yes,4-6,Somewhat,Yes,4,No,NA,No
+275,3,SOLS,1-2,Daily study routine,Quiet,4.0,4-5,Poor,4,8,3,Finance,Rarely,4+,Negative,Yes,4-6,Somewhat,Yes,4,No,NA,No
 276,3,SOAE,1-2,Daily study routine,Noisy,6.45,8+,Good,9,9,7,Time Management,Sometimes,1-2,Maybe,Yes,4-6,Not at all,No,9,No,NA,No
 277,4,SOHST,1-2,Daily study routine,Noisy,6.39,<4,Fair,5,7,4,Academics,Sometimes,1-2,Positive,No,<1,Somewhat,Yes,9,Yes,5-10,No
 278,3,SOCS,1-2,Weekdays only,No dedicated space,8.17,6-7,Good,8,5,4,Academics,Sometimes,3-4,No effect,No,<1,Somewhat,No,4,Yes,NA,Yes
@@ -281,7 +281,7 @@ student_id,year_of_study,major,study_hours_per_day,study_schedule,study_environm
 280,4,SOB,3-4,Sporadic,Quiet,6.25,6-7,Poor,8,4,9,Finance,Often,<1,Negative,No,<1,Fully,Yes,6,No,NA,No
 281,4,SOAE,3-4,Daily study routine,Noisy,7.07,6-7,Good,7,8,7,Time Management,Always,3-4,Negative,Yes,<1,Not at all,No,4,No,NA,No
 282,2,SOCS,1-2,Daily study routine,Quiet,6.99,8+,Poor,7,7,9,Academics,Often,1-2,Maybe,No,1-3,Somewhat,No,4,Yes,NA,No
-283,2,SOD,1-2,Weekdays only,Noisy,5.0,4-5,Poor,8,5,9,Finance,Sometimes,<1,Positive,No,<1,Somewhat,No,8,No,NA,Yes
+283,2,SOD,1-2,Weekdays only,Noisy,4.0,4-5,Poor,8,5,9,Finance,Sometimes,<1,Positive,No,<1,Somewhat,No,8,No,NA,Yes
 284,1,SOLS,1-2,Weekdays only,Quiet,8.51,6-7,Fair,8,8,7,Academics,Always,1-2,Negative,Yes,4-6,Not at all,No,9,Yes,5-10,Yes
 285,3,SOL,1-2,Daily study routine,No dedicated space,5.25,6-7,Excellent,5,6,3,Finance,Always,1-2,Negative,Yes,4-6,Not at all,No,6,No,NA,Yes
 286,1,SOAE,3-4,Sporadic,Quiet,9.63,<4,Fair,9,4,8,Time Management,Always,1-2,Positive,Yes,4-6,Not at all,No,9,No,NA,No
@@ -313,7 +313,7 @@ student_id,year_of_study,major,study_hours_per_day,study_schedule,study_environm
 312,1,SOB,5-6,Weekdays only,Quiet,7.08,4-5,Poor,6,6,6,Personal,Sometimes,3-4,Negative,Yes,1-3,Somewhat,No,5,Yes,NA,No
 313,1,SOHST,1-2,Weekdays only,Noisy,8.62,4-5,Poor,6,8,7,Time Management,Sometimes,<1,Maybe,Yes,4-6,Somewhat,No,9,No,NA,Yes
 314,5,SOD,5-6,Daily study routine,Noisy,7.67,6-7,Poor,8,4,9,Personal,Always,1-2,Maybe,No,4-6,Somewhat,No,6,No,NA,No
-315,4,SOL,1-2,Daily study routine,Noisy,5.0,6-7,Good,7,9,4,Finance,Often,3-4,Positive,Yes,4-6,Fully,No,4,No,NA,No
+315,4,SOL,1-2,Daily study routine,Noisy,4.0,6-7,Good,7,9,4,Finance,Often,3-4,Positive,Yes,4-6,Fully,No,4,No,NA,No
 316,3,SOHST,1-2,Weekdays only,Quiet,6.01,8+,Fair,8,4,8,Time Management,Rarely,3-4,Negative,No,4-6,Somewhat,No,8,No,NA,No
 317,2,SOLS,1-2,Sporadic,Quiet,5.84,6-7,Poor,6,4,8,Finance,Often,3-4,Negative,Yes,<1,Somewhat,No,7,Yes,NA,No
 318,1,SOAE,1-2,Daily study routine,Noisy,6.0,6-7,Fair,9,4,3,Academics,Always,<1,Positive,No,<1,Somewhat,No,5,No,NA,No
@@ -321,7 +321,7 @@ student_id,year_of_study,major,study_hours_per_day,study_schedule,study_environm
 320,2,SOL,5-6,Daily study routine,Quiet,10.0,6-7,Excellent,9,7,3,Time Management,Always,1-2,Negative,No,4-6,Not at all,No,5,No,NA,No
 321,3,SOB,5-6,Daily study routine,Noisy,8.21,6-7,Good,7,4,7,Academics,Often,1-2,Positive,No,6+,Somewhat,No,9,Yes,NA,Yes
 322,4,SOL,3-4,Weekends only,No dedicated space,6.46,6-7,Fair,4,9,7,Academics,Rarely,4+,Negative,Yes,<1,Somewhat,No,4,Yes,NA,No
-323,3,SOHST,1-2,Weekends only,Quiet,5.0,4-5,Good,8,9,6,Personal,Sometimes,3-4,Negative,Yes,<1,Fully,No,9,No,NA,Yes
+323,3,SOHST,1-2,Weekends only,Quiet,4.81,4-5,Good,8,9,6,Personal,Sometimes,3-4,Negative,Yes,<1,Fully,No,9,No,NA,Yes
 324,2,SOLS,3-4,Weekdays only,Quiet,6.8,4-5,Fair,9,6,5,Personal,Often,<1,Positive,Yes,<1,Somewhat,No,8,Yes,NA,No
 325,5,SOLS,3-4,Daily study routine,Quiet,5.0,6-7,Good,8,9,3,Academics,Rarely,3-4,Negative,No,1-3,Somewhat,No,7,Yes,15+,Yes
 326,4,SOCS,3-4,Weekends only,Noisy,6.41,6-7,Good,9,7,7,Finance,Rarely,<1,Positive,No,1-3,Fully,No,5,Yes,NA,No
@@ -337,7 +337,7 @@ student_id,year_of_study,major,study_hours_per_day,study_schedule,study_environm
 336,1,SOB,5-6,Weekdays only,No dedicated space,9.65,6-7,Good,7,4,8,Finance,Often,1-2,Negative,Yes,<1,Somewhat,No,9,No,NA,No
 337,4,SOD,5-6,Weekdays only,Quiet,10.0,6-7,Good,6,8,8,Academics,Sometimes,3-4,Positive,Yes,<1,Not at all,No,5,Yes,NA,No
 338,4,SOL,3-4,Weekends only,Quiet,7.77,6-7,Poor,9,8,4,Academics,Sometimes,4+,Positive,No,1-3,Fully,No,8,No,NA,No
-339,2,SOD,1-2,Weekends only,No dedicated space,5.0,8+,Poor,6,8,9,Academics,Always,3-4,No effect,Yes,<1,Somewhat,No,9,No,NA,No
+339,2,SOD,1-2,Weekends only,No dedicated space,4.17,8+,Poor,6,8,9,Academics,Always,3-4,No effect,Yes,<1,Somewhat,No,9,No,NA,No
 340,1,SOLS,1-2,Sporadic,No dedicated space,7.68,6-7,Poor,4,7,7,Finance,Sometimes,1-2,Negative,No,4-6,Somewhat,No,7,Yes,NA,Yes
 341,2,SOAE,3-4,Weekends only,Noisy,6.79,6-7,Good,8,6,8,Time Management,Often,4+,Negative,Yes,1-3,Somewhat,No,7,No,NA,Yes
 342,2,SOLS,1-2,Weekdays only,Quiet,5.9,8+,Excellent,6,3,5,Time Management,Often,<1,No effect,No,4-6,Somewhat,Yes,5,No,NA,No
@@ -371,7 +371,7 @@ student_id,year_of_study,major,study_hours_per_day,study_schedule,study_environm
 370,1,SOL,1-2,Weekdays only,No dedicated space,5.93,4-5,Good,6,9,4,Finance,Often,<1,No effect,No,1-3,Fully,No,6,No,NA,No
 371,1,SOAE,1-2,Weekdays only,No dedicated space,7.17,6-7,Good,8,5,3,Academics,Sometimes,<1,No effect,Yes,1-3,Fully,Yes,9,Yes,NA,No
 372,1,SOD,1-2,Weekdays only,Quiet,6.8,6-7,Good,9,8,7,Finance,Sometimes,<1,Negative,No,<1,Somewhat,No,6,No,NA,No
-373,1,SOAE,1-2,Weekdays only,Noisy,5.0,6-7,Good,5,7,4,Time Management,Often,4+,Positive,No,4-6,Fully,Yes,5,No,NA,No
+373,1,SOAE,1-2,Weekdays only,Noisy,4.14,6-7,Good,5,7,4,Time Management,Often,4+,Positive,No,4-6,Fully,Yes,5,No,NA,No
 374,3,SOL,5-6,Weekdays only,Noisy,8.48,8+,Fair,6,8,8,Time Management,Sometimes,<1,Positive,No,1-3,Fully,Yes,7,Yes,NA,No
 375,1,SOCS,1-2,Weekends only,Noisy,6.35,6-7,Good,7,9,7,Academics,Often,3-4,Negative,No,<1,Somewhat,Yes,4,No,NA,No
 376,2,SOHST,3-4,Weekdays only,Quiet,6.68,6-7,Good,9,6,3,Academics,Rarely,<1,No effect,Yes,1-3,Somewhat,No,4,No,NA,Yes
@@ -384,12 +384,12 @@ student_id,year_of_study,major,study_hours_per_day,study_schedule,study_environm
 383,3,SOLS,5-6,Weekdays only,Quiet,6.54,6-7,Poor,5,8,9,Academics,Sometimes,1-2,Positive,Yes,1-3,Fully,No,5,Yes,NA,No
 384,4,SOHST,1-2,Daily study routine,Quiet,6.79,6-7,Fair,8,6,4,Academics,Often,1-2,Negative,No,1-3,Somewhat,No,8,Yes,NA,No
 385,4,SOB,5-6,Daily study routine,No dedicated space,10.0,6-7,Poor,7,9,9,Academics,Often,3-4,No effect,Yes,1-3,Somewhat,No,8,No,NA,No
-386,4,SOLS,1-2,Daily study routine,No dedicated space,5.0,4-5,Poor,9,9,8,Academics,Sometimes,4+,No effect,Yes,<1,Somewhat,No,4,No,NA,No
+386,4,SOLS,1-2,Daily study routine,No dedicated space,4.16,4-5,Poor,9,9,8,Academics,Sometimes,4+,No effect,Yes,<1,Somewhat,No,4,No,NA,No
 387,2,SOHST,3-4,Weekends only,Noisy,7.41,4-5,Poor,8,8,5,Finance,Always,1-2,Positive,Yes,<1,Not at all,No,8,No,NA,No
 388,1,SOCS,5-6,Daily study routine,Noisy,10.0,<4,Fair,6,7,8,Finance,Rarely,1-2,Positive,No,1-3,Somewhat,No,9,No,NA,Yes
 389,4,SOD,1-2,Weekends only,Quiet,6.95,4-5,Fair,4,4,4,Time Management,Often,3-4,Positive,Yes,<1,Not at all,Yes,8,Yes,NA,No
 390,4,SOLS,1-2,Daily study routine,Noisy,7.529999999999999,8+,Excellent,6,7,4,Personal,Sometimes,3-4,Negative,No,<1,Not at all,No,7,No,NA,No
-391,5,SOL,1-2,Daily study routine,Quiet,5.0,4-5,Fair,7,3,4,Finance,Often,3-4,Negative,No,<1,Not at all,No,6,No,NA,No
+391,5,SOL,1-2,Daily study routine,Quiet,4.0,4-5,Fair,7,3,4,Finance,Often,3-4,Negative,No,<1,Not at all,No,6,No,NA,No
 392,2,SOL,1-2,Daily study routine,Noisy,7.4,6-7,Poor,6,3,6,Finance,Sometimes,3-4,Negative,No,1-3,Not at all,No,8,No,NA,Yes
 393,2,SOAE,3-4,Daily study routine,Quiet,6.36,6-7,Good,8,3,5,Academics,Sometimes,1-2,Positive,Yes,<1,Not at all,No,7,No,NA,No
 394,4,SOLS,1-2,Daily study routine,Noisy,6.96,4-5,Poor,6,8,9,Finance,Always,4+,Positive,No,1-3,Somewhat,No,5,No,NA,Yes
@@ -397,7 +397,7 @@ student_id,year_of_study,major,study_hours_per_day,study_schedule,study_environm
 396,5,SOB,1-2,Weekdays only,No dedicated space,9.0,<4,Poor,7,5,4,Academics,Often,1-2,Positive,Yes,<1,Fully,Yes,9,No,NA,No
 397,4,SOCS,5-6,Daily study routine,Noisy,9.32,4-5,Poor,7,9,9,Academics,Always,1-2,No effect,Yes,1-3,Somewhat,Yes,5,No,NA,Yes
 398,2,SOAE,1-2,Weekdays only,Noisy,6.33,<4,Good,8,5,8,Academics,Sometimes,1-2,Positive,Yes,<1,Not at all,Yes,8,No,NA,No
-399,4,SOL,1-2,Weekdays only,Quiet,5.0,6-7,Poor,7,5,8,Time Management,Often,<1,Negative,Yes,1-3,Somewhat,No,4,No,NA,No
+399,4,SOL,1-2,Weekdays only,Quiet,4.24,6-7,Poor,7,5,8,Time Management,Often,<1,Negative,Yes,1-3,Somewhat,No,4,No,NA,No
 400,4,SOB,1-2,Weekdays only,No dedicated space,6.68,6-7,Poor,4,9,4,Academics,Sometimes,3-4,Negative,Yes,<1,Not at all,No,7,No,NA,Yes
 401,1,SOB,3-4,Weekdays only,Noisy,8.73,6-7,Fair,7,8,3,Academics,Sometimes,1-2,No effect,No,1-3,Not at all,No,7,No,NA,Yes
 402,5,SOCS,5-6,Sporadic,Quiet,8.379999999999999,6-7,Poor,6,7,6,Academics,Sometimes,1-2,No effect,Yes,<1,Fully,No,4,No,NA,No
@@ -413,7 +413,7 @@ student_id,year_of_study,major,study_hours_per_day,study_schedule,study_environm
 412,5,SOB,3-4,Weekdays only,Quiet,8.1,4-5,Fair,4,5,3,Academics,Always,<1,Positive,No,6+,Somewhat,No,5,No,NA,Yes
 413,5,SOD,3-4,Sporadic,No dedicated space,8.11,4-5,Fair,9,7,5,Academics,Often,1-2,Negative,Yes,<1,Somewhat,No,4,No,NA,Yes
 414,3,SOD,1-2,Daily study routine,Noisy,7.289999999999999,4-5,Poor,7,6,9,Finance,Often,1-2,Positive,No,<1,Fully,No,8,No,NA,Yes
-415,3,SOD,1-2,Daily study routine,Noisy,5.0,6-7,Good,7,4,6,Academics,Often,4+,Negative,Yes,4-6,Somewhat,Yes,4,No,NA,No
+415,3,SOD,1-2,Daily study routine,Noisy,4.91,6-7,Good,7,4,6,Academics,Often,4+,Negative,Yes,4-6,Somewhat,Yes,4,No,NA,No
 416,2,SOB,5-6,Weekdays only,Quiet,7.38,6-7,Poor,8,5,4,Time Management,Always,<1,No effect,Yes,1-3,Fully,No,9,Yes,NA,No
 417,2,SOB,More than 6 hours,Daily study routine,Quiet,10.0,6-7,Fair,8,9,5,Academics,Always,1-2,Positive,No,1-3,Not at all,No,8,No,NA,No
 418,2,SOLS,3-4,Daily study routine,Noisy,7.17,8+,Good,9,5,5,Personal,Always,1-2,No effect,Yes,1-3,Fully,Yes,4,Yes,NA,Yes
@@ -437,7 +437,7 @@ student_id,year_of_study,major,study_hours_per_day,study_schedule,study_environm
 436,4,SOCS,1-2,Daily study routine,Quiet,9.0,6-7,Excellent,5,9,8,Academics,Often,<1,Positive,Yes,1-3,Fully,Yes,4,Yes,NA,Yes
 437,1,SOCS,5-6,Daily study routine,Quiet,7.4,8+,Poor,5,6,8,Academics,Often,4+,Positive,No,6+,Fully,No,8,Yes,NA,No
 438,4,SOCS,5-6,Daily study routine,Quiet,8.86,6-7,Fair,6,7,7,Academics,Often,3-4,Maybe,No,1-3,Fully,No,4,Yes,NA,Yes
-439,4,SOCS,1-2,Weekdays only,Quiet,5.0,6-7,Fair,6,8,8,Personal,Always,4+,Negative,No,1-3,Somewhat,No,9,No,NA,No
+439,4,SOCS,1-2,Weekdays only,Quiet,4.0,6-7,Fair,6,8,8,Personal,Always,4+,Negative,No,1-3,Somewhat,No,9,No,NA,No
 440,1,SOHST,1-2,Weekends only,Quiet,5.87,6-7,Good,9,7,5,Time Management,Sometimes,3-4,Positive,No,<1,Fully,No,8,No,NA,Yes
 441,1,SOHST,5-6,Weekdays only,Noisy,10.0,6-7,Excellent,5,6,6,Academics,Always,1-2,Negative,Yes,<1,Somewhat,Yes,6,No,NA,No
 442,5,SOAE,More than 6 hours,Weekdays only,Noisy,6.5,6-7,Fair,6,3,8,Academics,Often,1-2,Negative,No,1-3,Somewhat,No,5,No,NA,No
@@ -448,7 +448,7 @@ student_id,year_of_study,major,study_hours_per_day,study_schedule,study_environm
 447,5,SOB,More than 6 hours,Daily study routine,Noisy,9.66,4-5,Fair,9,4,4,Finance,Often,3-4,Negative,Yes,1-3,Somewhat,Yes,4,No,NA,Yes
 448,4,SOLS,5-6,Daily study routine,No dedicated space,7.2,6-7,Fair,4,4,3,Personal,Sometimes,1-2,Negative,Yes,4-6,Somewhat,Yes,7,Yes,NA,No
 449,2,SOLS,3-4,Weekdays only,Noisy,6.95,6-7,Poor,5,3,9,Finance,Often,3-4,Positive,Yes,1-3,Not at all,No,8,No,NA,No
-450,1,SOB,1-2,Weekdays only,Noisy,5.0,<4,Poor,7,8,8,Finance,Always,4+,Positive,No,<1,Fully,No,7,No,NA,No
+450,1,SOB,1-2,Weekdays only,Noisy,4.31,<4,Poor,7,8,8,Finance,Always,4+,Positive,No,<1,Fully,No,7,No,NA,No
 451,4,SOHST,1-2,Weekdays only,Quiet,7.24,6-7,Excellent,4,5,4,Academics,Always,3-4,Negative,Yes,1-3,Not at all,No,9,No,NA,Yes
 452,3,SOB,3-4,Weekdays only,Quiet,10.0,6-7,Poor,6,3,9,Finance,Often,3-4,No effect,Yes,4-6,Somewhat,No,7,No,NA,No
 453,2,SOAE,3-4,Daily study routine,Noisy,5.0,6-7,Fair,6,7,4,Personal,Often,1-2,Positive,Yes,<1,Fully,Yes,5,No,NA,No
@@ -466,10 +466,10 @@ student_id,year_of_study,major,study_hours_per_day,study_schedule,study_environm
 465,5,SOLS,3-4,Weekdays only,Quiet,6.52,6-7,Fair,6,5,3,Academics,Sometimes,1-2,Negative,No,<1,Somewhat,No,5,No,NA,No
 466,2,SOCS,1-2,Weekdays only,Quiet,5.31,8+,Fair,6,4,6,Academics,Rarely,<1,No effect,No,<1,Fully,Yes,5,No,NA,No
 467,2,SOCS,5-6,Weekends only,Quiet,9.62,6-7,Poor,8,3,4,Personal,Always,<1,Maybe,No,4-6,Not at all,Yes,8,No,NA,Yes
-468,4,SOD,1-2,Daily study routine,Noisy,5.0,6-7,Fair,8,6,5,Finance,Always,1-2,No effect,No,1-3,Somewhat,Yes,5,No,NA,No
+468,4,SOD,1-2,Daily study routine,Noisy,4.06,6-7,Fair,8,6,5,Finance,Always,1-2,No effect,No,1-3,Somewhat,Yes,5,No,NA,No
 469,1,SOD,5-6,Daily study routine,Noisy,8.64,4-5,Poor,9,7,4,Academics,Sometimes,<1,Negative,Yes,1-3,Not at all,Yes,5,No,NA,No
 470,5,SOB,More than 6 hours,Daily study routine,Quiet,8.530000000000001,6-7,Good,8,7,7,Time Management,Always,1-2,Negative,Yes,<1,Somewhat,No,8,No,NA,No
-471,1,SOHST,1-2,Weekdays only,Quiet,5.0,6-7,Fair,4,5,3,Finance,Often,3-4,Negative,No,<1,Somewhat,No,9,No,NA,No
+471,1,SOHST,1-2,Weekdays only,Quiet,4.39,6-7,Fair,4,5,3,Finance,Often,3-4,Negative,No,<1,Somewhat,No,9,No,NA,No
 472,5,SOCS,3-4,Daily study routine,Quiet,6.1,6-7,Fair,8,8,6,Personal,Sometimes,4+,Positive,Yes,6+,Somewhat,No,6,No,NA,No
 473,1,SOLS,1-2,Weekdays only,Noisy,6.34,6-7,Good,4,3,7,Academics,Often,3-4,Positive,Yes,1-3,Fully,No,9,No,NA,No
 474,4,SOL,3-4,Daily study routine,No dedicated space,9.05,<4,Good,8,6,7,Academics,Always,4+,Negative,No,4-6,Somewhat,No,4,No,NA,No
